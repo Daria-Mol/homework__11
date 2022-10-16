@@ -201,7 +201,7 @@
 	box-shadow: 20px 0px 15px 20px rgb(248, 149, 1);
 	z-index: 3;
 }
-.car_weel:nth-child(2) {
+.car__weel:nth-child(2) {
 	position:absolute;
 	width:70px;
 	height:70px;
@@ -210,7 +210,7 @@
 	border-radius:50%;
 	background: url("../img/disk.png")center center/cover;
 }
-.car_weel:nth-child(1) {
+.car__weel:nth-child(1) {
 	position:absolute;
 	width:90px;
 	height:90px;
@@ -220,7 +220,7 @@
 	background-color: rgb(53, 52, 51);
 	border: solid 20px #000;
 }
-.car_weel:nth-child(4) {
+.car__weel:nth-child(4) {
 	position:absolute;
 	width:70px;
 	height:70px;
@@ -229,7 +229,7 @@
 	border-radius:50%;
 	background: url("../img/disk.png")center center/cover;
 }
-.car_weel:nth-child(3) {
+.car__weel:nth-child(3) {
 	position:absolute;
 	width:90px;
 	height:90px;
